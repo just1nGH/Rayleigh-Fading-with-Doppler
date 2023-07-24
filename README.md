@@ -1,5 +1,5 @@
 # Rayleigh-Fading-with-Doppler
-- Generate K  mutually uncorrelated Rayleigh fading waveforms using sum of sinusoids methods
+- Generate fading envolop using sum of sinusoids methods
 - Compute delays and avarage power of each tap given power delay profile
 - Generate power delay profile for exponetial decay channel
 - Generate channel coefficients(nTaps X nSamples) given power delay profile, maximum doppershift, numer of samples
